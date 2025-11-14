@@ -170,6 +170,11 @@ Supports star-schema modeling (Fact + Dimensions)
 
 
 
+
+![WhatsApp Image 2025-11-10 at 12 45 17_4c38ffe7](https://github.com/user-attachments/assets/bc2e0b5f-e183-4b88-97f6-ed43dd2f2f95)
+
+
+
 #  5. Databricks Workflow (Automation)
 
 
