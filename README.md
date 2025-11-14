@@ -29,6 +29,8 @@ Medallion Architecture (Bronze → Silver → Gold) with Incremental Loading
 
 Below is a polished breakdown of the entire process:
 
+![WhatsApp Image 2025-11-03 at 18 20 36_76d793b8](https://github.com/user-attachments/assets/3d005566-650f-454f-be88-601121b78cc6)
+
 
 
 # 1. Source & Ingestion (Azure Data Factory) 
