@@ -5,7 +5,8 @@ Medallion Architecture (Bronze → Silver → Gold) with Incremental Loading
 
 
 
-![incremental sales](https://github.com/user-attachments/assets/0da9c6c6-e268-4622-98cc-2b5a4ba34845)
+![NycTaxi 1](https://github.com/user-attachments/assets/62246f24-c33c-4b77-be1b-5907aaa8ab7d)
+
 
 
 
