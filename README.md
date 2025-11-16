@@ -10,7 +10,7 @@ Medallion Architecture (Bronze → Silver → Gold) with Incremental Loading
 
 
 
-#This Azure data pipeline demonstrates how I built a scalable data engineering workflow using:
+# This Azure data pipeline demonstrates how I built a scalable data engineering workflow using:
 
   ✔ Azure SQL Database
   
